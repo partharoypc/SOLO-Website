@@ -13,7 +13,7 @@
 
 <h1> Project Preview </h1> 
 <br>
-Project Preview [SOLO-Website] (https://solo-agency-website.netlify.app/)
+(https://solo-agency-website.netlify.app/)
 <br>
 <br>
 
