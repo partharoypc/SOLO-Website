@@ -13,6 +13,10 @@
 
 <h1> Project Preview </h1> 
 <br>
+<h3>Live Preview </h3>
+<br>
+[https://solo-agency-website.netlify.app/]
+<br>
 <br>
 
 https://user-images.githubusercontent.com/19473647/116220947-f5fa6100-a76e-11eb-8dfb-a16879371bee.mp4
